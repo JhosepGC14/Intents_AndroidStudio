@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="button_before">Anterior</string>
+    <string name="button_next">Siguiente</string>
+    <string name="tb_1">Primera Pagina</string>
+    <string name="tb_2">Segunda Pagina</string>
+</resources>
